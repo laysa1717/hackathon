@@ -1,0 +1,247 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.cabecalho{
+  width: 100%;
+  height: 100px;
+  display: flex;
+  border-bottom: solid 1px #DCDCDC;
+}
+.centro{
+  width: 1700px;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: ;
+}
+.img {
+  width: 250px;
+  height: 100px;
+}
+.alinhamento{
+  width: 400px;
+  height: 100%;
+  background-color: ;
+  margin-left: ;
+  float: left;
+}
+.sair{
+  width: 50px;
+  height: 60%;
+  margin-top: 40px;
+  background-color: ;
+  margin-left: 980px;
+  float: left;
+}
+.sair1{
+  width: 170px;
+  height: 60%;
+  margin-top: 40px;
+  line-height: 50px;
+  text-align: center;
+  background-color: ;
+  font-size: 18px;
+  float: left;
+
+}
+.menu{
+  width: 100%;
+  height: 40px;
+  background-color: #DCDCDC;
+  display: flex;
+}
+.CENTRODENOVO{
+  width: 350px;
+  height: 100%;
+  background-color: ;
+  margin-left: 800px;
+  margin-top: 0px;
+}
+.td{
+  width: 100px;
+  height: 100%;
+  background-color: ;
+  line-height: 35px;
+  text-align: center;
+
+}
+.td:hover{
+
+  height: 100%;
+  color: red;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+  border-bottom: solid 1px red;
+}
+.mano{
+  width: 100px;
+  height: 100%;
+  background-color: ;
+  float: left;
+  margin-left: 20px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: bold;
+}
+
+/* Construção do conteudo */
+#conteudo {
+    width: 1500px;
+    height: 1080px; 
+    margin: auto;
+}
+
+#caixas_conteudo {
+    width: 1500px;
+    height: 1080px;
+    border: solid 1px #DCDCDC;
+    float: left;
+}
+
+.subtitulo {
+    font-family: verdana;
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+#titulo {
+    font-family: verdana;
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.caixas{
+    width: 500px;
+    height: 20px;
+    background-color: aliceblue;
+    
+}
+
+.teste{
+    margin: auto;
+}
+
+/* Formatando caixas conteudo */
+
+.tdform{
+  width: 150px;
+  height: 40px;
+  font-size: 20px;
+  text-align: left;
+  display: flex; 
+}
+.input1{
+    width: 400px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #DCDCDC;
+  
+}
+
+.tdform_date{
+  width: 150px;
+  height: 40px;
+  font-size: 20px;
+  margin-left: 25px;
+  text-align: left;
+  background-color:
+}
+
+.tdform_date1{
+  width: 100px;
+  height: 40px;
+  font-size: 20px;
+  margin-left: 25px;
+  text-align: left;
+  background-color:  
+}
+
+.input{
+  width: 600px;
+  height: 25px;
+  border: 1px solid black;
+  border-radius: 5px;
+    background-color: #DCDCDC;
+
+}
+
+.input_data{
+    width: 200px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #DCDCDC;
+}
+
+.input_data:hover{
+    width: 200px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.input_cep{
+    width: 160px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #DCDCDC;
+}
+
+.input_uf{
+    width: 90px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #DCDCDC;
+}
+
+.input-email {
+    width: 280px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #DCDCDC;
+}
+
+.tdform_email {
+  height: 40px;
+  font-size: 20px;
+  margin-left: 25px;
+  text-align: left;
+}
+
+.borda{
+  height: 3px;
+  margin-top: 5px;
+  background-color: black;
+}
+
+.btn{
+  width: 100px;
+  height: 50px;
+    margin-top: 15px;
+  margin-left: 1000px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.button{
+    height: 40px;
+    width: 90px;;
+    background-color: aqua;
+    margin-left: 1000px;
+}

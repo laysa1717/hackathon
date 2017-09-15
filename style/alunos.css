@@ -1,0 +1,115 @@
+.teste{
+  display: flex;
+  width: 1500px;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.titulo{
+  width: 100%;
+  height: 50px;
+  margin-top: 40px;
+  font-size: 25px;
+  line-height: 50px;
+  border-bottom: solid 1px #DCDCDC;
+  display: flex;
+}
+.oi{
+  width: 1500px;
+  height: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tdform{
+  width: 150px;
+  height: 40px;
+  font-size: 20px;
+  text-align: left;
+  display: flex;
+
+}
+
+.tdform_date{
+  width: 150px;
+  height: 40px;
+  font-size: 20px;
+  margin-left: 25px;
+  text-align: left;
+  background-color:   ;
+}
+
+.input{
+  width: 600px;
+  height: 25px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #DCDCDC;
+
+}
+.input:hover{
+  width: 600px;
+  height: 25px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.input_data{
+  width: 200px;
+  height: 25px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #DCDCDC;
+}
+.input_data:hover{
+  width: 200px;
+  height: 25px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #fff;
+}
+.tdpadrão{
+    height: 40px;
+    width: 335px;
+    font-size: 20px;
+    background-color: ;
+}
+.inputpadrao{
+  width: 332px;
+  height: 25px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #DCDCDC;
+}
+.inputpadrao:hover{
+  width: 332px;
+  height: 25px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #fff;
+}
+.borda{
+  width: 85%;
+  height: 3px;
+  margin-top: 10px;
+  background-color: black;
+  margin-bottom: 30px;
+}
+.inputpadrao1{
+  width: 672px;
+  height: 25px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #DCDCDC;
+}
+.btn{
+  width: 100px;
+  height: 50px;
+  margin-left: 1000px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}

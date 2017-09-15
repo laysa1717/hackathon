@@ -1,0 +1,44 @@
+.bosta{
+  width: 100%;
+  height: 60  px;
+  display: flex;
+  background-color: rgba(255,0,0,0.7);
+}
+.calaboca{
+  width: 100%;
+  height: 60px;
+  background-color: ;
+  line-height: 50px;
+  display: flex;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+.borda{
+  width: 100%;
+  height: 10px;
+  background-color: black;
+}
+.conteudo{
+  width: 100%;
+  height: 600px;
+  background-color: #DCDCDC;
+}
+.tdparte1{
+  width: 115px;
+  text-align: center;
+  border: solid 1px black;
+  font-size: 18px;
+  height: 50px;
+  font-weight: bold;
+  background-color: #CDCDCD;
+}
+.tdparte10{
+  width: 115px;
+  text-align: center;
+  border: solid 0px black;
+  font-size: 18px;
+  height: 50px;
+  font-weight: bold;
+  background-color: #fff;
+}

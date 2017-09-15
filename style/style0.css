@@ -1,0 +1,120 @@
+
+	.linha1_fale_conosco {
+		height:50px;
+		width:569px;
+		float:left;
+		border-bottom:5px solid #337ab7;
+	}
+
+	.linha2_fale_conosco {
+		height:50px;
+		width:569px;
+		float:left;
+		border-bottom:5px solid #337ab7;
+	}
+
+	.titulo_fale_conosco {
+		height:50px;
+		width:260px;
+		float:left;
+		color:black;
+		font-size:35px;
+		font-family:Times new Roman;
+		text-align:center;
+		padding-top:10px;
+
+
+	}
+
+	.conteudo_fale_conosco {
+		clear:both;
+		width:1398px;
+		height:1520px;
+		background-color:transparent;
+	}
+
+	.fale_conosco1 {
+		width:800px;
+		height:1440px;
+		clear:both;
+		float:left;
+	}
+
+	.informacao {
+		color:black;
+		font-family:arial;
+		font-size:18px;
+		border-bottom:1px solid #d9d9d9;
+
+	}
+
+	.obrigatorio {
+		color:#999999;
+		font-family:arial;
+		font-size:18px;
+
+	}
+
+	.dados {
+		color:#404040;
+		font-family:arial;
+		font-size:18px;
+		font-weight:bold;
+
+	}
+
+	.valor {
+		color:#1a1a1a;
+		font-family:arial;
+		font-size:18px;
+		float:left;
+
+	}
+
+
+	.input {
+		border-radius:5px;
+		height:30px;
+		float:left;
+		color:#404040;
+		border:1px solid #337ab7;
+
+	}
+
+
+
+	.radio{
+		font-family:arial;
+		font-size:18px;
+		width:160px;
+	}
+
+	.radio_homem {
+		font-family:arial;
+		font-size:255px;
+	}
+	 .tamanho-radio {
+		width:400px;
+	 }
+
+	textarea {
+		height:150px;
+		width:550px;
+		resize:none;
+		border:1px solid #337ab7;
+	}
+
+	.valor2 {
+		color:#1a1a1a;
+		font-family:arial;
+		font-size:18px;
+		padding-top:60px;
+
+	}
+
+	.fale_conosco2 {
+		float:left;
+		margin-left:150px;
+		width:400px;
+		height:1000px;
+	}

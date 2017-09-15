@@ -1,0 +1,17 @@
+
+#teste{
+    width: 540px;
+    height: 600px;
+    background-color: blueviolet;
+    margin: auto;
+}
+
+.itens {
+    height: 20px;
+    float: left;
+    border: solid 1px #fff;
+}
+
+.item{
+    border: solid 1px #fff;
+}

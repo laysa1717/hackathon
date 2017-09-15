@@ -1,0 +1,70 @@
+ .principalAluno{
+    width: 1200px;
+    height: 600px;
+    background-color: ;
+    margin-left: auto;
+    margin-right: auto;
+
+ }
+.titulo{
+  width: 99%;
+  height: 50px;
+  background-color: ;
+  font-size: 25px;
+  line-height: 60px;
+  margin-top: 10px;
+  border-bottom: solid 1px black;
+  margin-left: 10px;
+}
+.conteudorelatorio{
+  width: 100%;
+  height: 780px;
+  background-color:#DCDCDC ;
+
+}
+.foto{
+  width: 180px;
+  height: 180px;
+  background-color: black;
+  border-radius: 50%;
+  float: left;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.foto1{
+  width: 180px;
+  height: 180px;
+  background-color: black;
+  border-radius: 50%;
+  float: left;
+  margin-top: ;
+  margin-left: ;
+}
+.direito{
+  width: 600px;
+  height: 340px;
+  background-color: ;
+  float: left;
+  margin-left: 30px;
+}
+.baixo{
+  width: 670px;
+  height: 400px;
+  background-color: ;
+  float: left;
+  margin-left: 220px;
+}
+.tdcima{
+  background-color: ;
+  height: 30px;
+  text-align: right;
+  font-size: 20px;
+width: 200px;
+}
+.tdcima1{
+  height: 30px;
+  background-color: ;
+  font-size: 18px;
+  font-weight: bold;
+
+}
